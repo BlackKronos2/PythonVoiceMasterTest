@@ -1,0 +1,6 @@
+𝟭: https://python-sounddevice.readthedocs.io/en/0.4.4/
+𝟮: https://github.com/alphacep/vosk-api
+𝟯: https://github.com/snakers4/silero-models
+𝟰: https://numpy.org/
+𝟱: https://pypi.org/project/fuzzywuzzy/
+𝟲: https://github.com/Yuego/num2t4ru
